@@ -5,16 +5,16 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/tu_id_discord" target="_blank">
+  <a href="https://discord.com/users/joha0576" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/tu_usuario" target="_blank">
+  <a href="https://www.instagram.com/johantc_17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://linkedin.com/in/tu_usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/johan-teran-aab05531b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://youtube.com/@tu_canal" target="_blank">
+  <a href="https://www.youtube.com/@johanteran3396" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
@@ -68,17 +68,26 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JohanATC&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JohanATC&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohanATC&show_icons=true&theme=dark" height="220" alt="stats graph" />
 </div>
 
 ###
 
-<h3 align="left">🎵 Now Playing on Spotify</h3>
+<h3 align="center">🎵 Now Playing</h3>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ikdc4m2fvji5zjmxhnwpyv77ye&count=5&unique=true&width=700" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/31ikdc4m2fvji5zjmxhnwpyv77ye">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ikdc4m2fvji5zjmxhnwpyv77ye&count=5&unique=true&width=700" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JohanATC/JohanATC/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
