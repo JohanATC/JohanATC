@@ -89,12 +89,3 @@
   </a>
 </div>
 
-###
-
-<h3 align="center">🐍 Snake Activity</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JohanATC/JohanATC/output/snake.svg" alt="Snake animation" />
-</div>
